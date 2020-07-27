@@ -11,4 +11,4 @@ To run the code, you will need to:
  5. Select which keywords to get Tweets for
  6. Configure which PubSub+ topic to publish tweets to
 
-You can find more information about these steps here:
+You can find more information about these steps here: http://abitdeployed.com/2020/07/27/publishing-real-time-tweets-to-solace-pubsub/
